@@ -3,3 +3,4 @@ Die Frage ist, was passiert mit dem staging Area, wenn man in den ausgecheckten 
 Also noch mal eine Änderung
 Und nochmal
 Noch ein Änderung
+Das gibt es doch nicht!
