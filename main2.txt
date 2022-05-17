@@ -1,3 +1,4 @@
 Das ist mein2.txt und dien dem rebasetest
 Die Frage ist, was passiert mit dem staging Area, wenn man in den ausgecheckten Branch fetched?
 Also noch mal eine Änderung
+Und nochmal
